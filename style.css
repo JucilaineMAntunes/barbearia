@@ -1,0 +1,86 @@
+
+body{
+  
+}
+
+#banner{
+    width: 100%;
+}
+
+.principal{
+    background: #CCCCCC; 
+    padding: 30px;
+}
+
+.titulo-principal{
+    padding-left: 20px;
+}
+
+.titulo-centralizado{
+    text-align: center;
+}
+
+
+p{
+    text-align: center;
+}
+
+#missao{
+  font-size: 20px;
+}
+
+em strong{
+  color: #FF0000;
+}
+
+.itens{
+    font-style: italic;
+}
+
+.beneficios{
+    background: #FFFFFF;
+    padding: 20px;
+}
+
+h2{
+    text-align: center;
+}
+
+ul{
+    display: inline-block; /*ocupa só o tamanho do seu conteúdo, com isso aparece img ao lado*/
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+#imgbeneficios{
+    width: 50%;
+}
+
+
+/*  CORES
+Hexadecimal = 0123456789ABCDEF 
+RGB = Red Green Blue
+
+# __ __ __ __ __ __
+ 
+0 = ausência de cor
+F = Máximo
+
+VERMELHO
+#FF0000
+
+DICIONARIO RGB
+ 0,1,2,3,4.....255
+
+ 0 = ausência de cor
+ 255 = Máximo
+
+ rgb(Red, Green, Blue)
+
+ rgb(0,0,255) = azul
+
+
+
+
+*/
